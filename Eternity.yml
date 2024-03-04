@@ -17,7 +17,7 @@ dns:
   - https://dns.google/dns-query
   - tls://dns.google:853
 proxies:
-- name: RELAY-172.64.80.1-0716 | 148.873MB
+- name: RELAY-172.64.80.1-0716 | 219.221MB
   server: www.darkroom.lol
   port: 8080
   type: vmess
@@ -31,7 +31,7 @@ proxies:
     path: /
     headers:
       Host: www.darkroom.lol
-- name: RELAY-172.67.71.160-0058 | 146.24MB
+- name: RELAY-172.67.71.160-0058 | 193.398MB
   server: 172.67.71.160
   port: 443
   type: vmess
@@ -40,13 +40,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-172.67.71.160-0058 | 146.24MB
+  servername: RELAY-172.67.71.160-0058 | 193.398MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: obdii.cfd
-- name: RELAY-172.67.207.26-1357 | 132.36MB
+- name: RELAY-172.67.207.26-1357 | 152.001MB
   server: hms182.glweidf.sbs
   port: 443
   type: vmess
@@ -60,7 +60,7 @@ proxies:
     path: /
     headers:
       Host: glweidf.sbs
-- name: RELAY-104.21.15.36-0082 | 127.196MB
+- name: RELAY-104.21.15.36-0082 | 140.472MB
   server: 104.21.15.36
   port: 443
   type: vmess
@@ -69,19 +69,19 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.15.36-0082 | 127.196MB
+  servername: RELAY-104.21.15.36-0082 | 140.472MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: linde06.indiavideo.sbs
-- name: 🇺🇸US-205.134.180.147-0734 | 116.447MB
+- name: 🇺🇸US-205.134.180.147-0734 | 124.127MB
   server: 205.134.180.147
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 9Bvkw5aupNy8
-- name: RELAY-172.67.196.112-0137 | 106.338MB
+- name: RELAY-172.67.196.112-0137 | 110.079MB
   server: 172.67.196.112
   port: 443
   type: vmess
@@ -90,13 +90,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-172.67.196.112-0137 | 106.338MB
+  servername: RELAY-172.67.196.112-0137 | 110.079MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: linde06.indiavideo.sbs
-- name: RELAY-172.67.136.215-0151 | 104.797MB
+- name: RELAY-172.67.136.215-0151 | 89.623MB
   server: muriel.makeup
   port: 443
   type: vmess
@@ -110,20 +110,20 @@ proxies:
     path: /
     headers:
       Host: muriel.makeup
-- name: 🇺🇸US-172.233.214.104-0718 | 95.188MB
+- name: 🇺🇸US-172.233.214.104-0718 | 73.538MB
   server: passconf.xyz
   port: 8080
   type: ss
   cipher: chacha20-ietf-poly1305
   password: qGjmI8WQlF0tfhDbkLqGdN
-- name: 🇺🇸US-45.63.110.20-0132 | 92.414MB
+- name: 🇺🇸US-45.63.110.20-0132 | 68.147MB
   server: 45.63.110.20
   port: 443
   type: trojan
   password: wkmY1R4EcP
   sni: z-v2-003281.kailib.com
   skip-cert-verify: false
-- name: RELAY-172.67.207.114-2350 | 90.783MB
+- name: RELAY-172.67.207.114-2350 | 66.484MB
   server: 172.67.207.114
   port: 443
   type: vmess
@@ -132,13 +132,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-172.67.207.114-2350 | 90.783MB
+  servername: RELAY-172.67.207.114-2350 | 66.484MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: ophelia.mom
-- name: RELAY-104.21.12.173-3579 | 83.997MB
+- name: RELAY-104.21.12.173-3579 | 65.321MB
   server: 104.21.12.173
   port: 443
   type: vmess
@@ -147,19 +147,19 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.12.173-3579 | 83.997MB
+  servername: RELAY-104.21.12.173-3579 | 65.321MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: meroiy.icu
-- name: 🇺🇸US-205.134.180.137-0728 | 82.707MB
+- name: 🇺🇸US-205.134.180.137-0728 | 64.18MB
   server: 205.134.180.137
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: g13S7doXar0A
-- name: RELAY-104.21.12.173-0147 | 81.657MB
+- name: RELAY-104.21.12.173-0147 | 59.772MB
   server: meroiy.icu
   port: 443
   type: vmess
@@ -168,13 +168,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.12.173-0147 | 81.657MB
+  servername: RELAY-104.21.12.173-0147 | 59.772MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: meroiy.icu
-- name: RELAY-104.21.75.246-2392 | 81.141MB
+- name: RELAY-104.21.75.246-2392 | 55.026MB
   server: 104.21.75.246
   port: 443
   type: vmess
@@ -183,13 +183,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.75.246-2392 | 81.141MB
+  servername: RELAY-104.21.75.246-2392 | 55.026MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: cf.tonyluk.link
-- name: RELAY-172.67.152.214-0173 | 72.23MB
+- name: RELAY-172.67.152.214-0173 | 50.711MB
   server: 172.67.152.214
   port: 443
   type: vmess
@@ -198,13 +198,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-172.67.152.214-0173 | 72.23MB
+  servername: RELAY-172.67.152.214-0173 | 50.711MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: meroiy.icu
-- name: RELAY-188.114.96.2-2386 | 69.207MB
+- name: RELAY-188.114.96.2-2386 | 50.031MB
   server: 188.114.96.2
   port: 443
   type: vmess
@@ -213,13 +213,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-188.114.96.2-2386 | 69.207MB
+  servername: RELAY-188.114.96.2-2386 | 50.031MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: ophelia.mom
-- name: RELAY-104.18.202.250-1124 | 61.798MB
+- name: RELAY-104.18.202.250-1124 | 49.192MB
   server: 104.18.202.250
   port: 2082
   type: vmess
@@ -233,7 +233,7 @@ proxies:
     path: /
     headers:
       Host: erfannewfreenodes.vdmmswyzmzigonvnjk443.workers.dev
-- name: RELAY-188.114.99.0-2327 | 55.369MB
+- name: RELAY-188.114.99.0-2327 | 48.148MB
   server: 188.114.99.0
   port: 443
   type: vmess
@@ -242,13 +242,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-188.114.99.0-2327 | 55.369MB
+  servername: RELAY-188.114.99.0-2327 | 48.148MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: ophelia.mom
-- name: RELAY-104.21.53.12-2367 | 54.342MB
+- name: RELAY-104.21.53.12-2367 | 44.212MB
   server: 104.21.53.12
   port: 443
   type: vmess
@@ -257,19 +257,19 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.53.12-2367 | 54.342MB
+  servername: RELAY-104.21.53.12-2367 | 44.212MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: ophelia.mom
-- name: 🇺🇸US-138.197.5.103-0720 | 52.022MB
+- name: 🇺🇸US-138.197.5.103-0720 | 42.476MB
   server: us.blazeppn.info
   port: 443
   type: trojan
   password: xxoo
   skip-cert-verify: false
-- name: RELAY-104.21.31.189-0075 | 51.512MB
+- name: RELAY-104.21.31.189-0075 | 42.151MB
   server: kittiy.sbs
   port: 443
   type: vmess
@@ -283,13 +283,13 @@ proxies:
     path: /
     headers:
       Host: kittiy.sbs
-- name: 🇺🇸US-205.134.180.151-0733 | 51.318MB
+- name: 🇺🇸US-205.134.180.151-0733 | 40.879MB
   server: 205.134.180.151
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 5cp9Z3iWnJZ2
-- name: RELAY-188.114.98.0-2384 | 51.092MB
+- name: RELAY-188.114.98.0-2384 | 40.218MB
   server: 188.114.98.0
   port: 443
   type: vmess
@@ -298,25 +298,25 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-188.114.98.0-2384 | 51.092MB
+  servername: RELAY-188.114.98.0-2384 | 40.218MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: odelia.autos
-- name: 🇺🇸US-156.146.38.163-0726 | 51.08MB
+- name: 🇺🇸US-156.146.38.163-0726 | 39.13MB
   server: 156.146.38.163
   port: 443
   type: ss
   cipher: aes-128-cfb
   password: shadowsocks
-- name: 🇺🇸US-205.134.180.145-2502 | 51.046MB
+- name: 🇺🇸US-205.134.180.145-2502 | 39.124MB
   server: 205.134.180.145
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: hgLCgfLRgB6d
-- name: RELAY-104.21.50.177-6856 | 50.778MB
+- name: RELAY-104.21.50.177-6856 | 38.34MB
   server: alvvin.click
   port: 443
   type: vmess
@@ -325,19 +325,19 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.50.177-6856 | 50.778MB
+  servername: RELAY-104.21.50.177-6856 | 38.34MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: alvvin.click
-- name: 🇺🇸US-156.146.38.163-0211 | 50.755MB
+- name: 🇺🇸US-156.146.38.163-0211 | 38.163MB
   server: 156.146.38.163
   port: 443
   type: ss
   cipher: aes-128-cfb
   password: shadowsocks
-- name: RELAY-172.67.68.246-0118 | 50.689MB
+- name: RELAY-172.67.68.246-0118 | 38.037MB
   server: 172.67.68.246
   port: 443
   type: vmess
@@ -346,13 +346,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-172.67.68.246-0118 | 50.689MB
+  servername: RELAY-172.67.68.246-0118 | 38.037MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: vip2323.cfd
-- name: 🇺🇸US-107.175.37.186-0388 | 49.859MB
+- name: 🇺🇸US-107.175.37.186-0388 | 37.021MB
   server: 107.175.37.186
   port: 80
   type: vmess
@@ -364,7 +364,7 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: RELAY-104.21.53.12-6857 | 46.457MB
+- name: RELAY-104.21.53.12-6857 | 36.909MB
   server: ophelia.mom
   port: 443
   type: vmess
@@ -373,13 +373,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.53.12-6857 | 46.457MB
+  servername: RELAY-104.21.53.12-6857 | 36.909MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: ophelia.mom
-- name: RELAY-104.26.9.202-0129 | 46.262MB
+- name: RELAY-104.26.9.202-0129 | 36.67MB
   server: vip2323.cfd
   port: 443
   type: vmess
@@ -388,13 +388,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.26.9.202-0129 | 46.262MB
+  servername: RELAY-104.26.9.202-0129 | 36.67MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: vip2323.cfd
-- name: RELAY-104.26.9.202-0055 | 45.507MB
+- name: RELAY-104.26.9.202-0055 | 35.857MB
   server: 104.26.9.202
   port: 443
   type: vmess
@@ -403,13 +403,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.26.9.202-0055 | 45.507MB
+  servername: RELAY-104.26.9.202-0055 | 35.857MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: vip2323.cfd
-- name: RELAY-104.26.8.202-0050 | 43.071MB
+- name: RELAY-104.26.8.202-0050 | 34.459MB
   server: 104.26.8.202
   port: 443
   type: vmess
@@ -418,13 +418,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.26.8.202-0050 | 43.071MB
+  servername: RELAY-104.26.8.202-0050 | 34.459MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: vip2323.cfd
-- name: RELAY-104.16.68.38-0097 | 41.718MB
+- name: RELAY-104.16.68.38-0097 | 34.174MB
   server: speed.cloudflare.com
   port: 80
   type: vmess
@@ -438,7 +438,7 @@ proxies:
     path: /
     headers:
       Host: aq.daozhang.link
-- name: RELAY-172.67.197.82-6853 | 40.204MB
+- name: RELAY-172.67.197.82-6853 | 33.815MB
   server: odelia.autos
   port: 443
   type: vmess
@@ -452,7 +452,7 @@ proxies:
     path: /
     headers:
       Host: odelia.autos
-- name: RELAY-172.67.183.110-6854 | 37.465MB
+- name: RELAY-172.67.183.110-6854 | 33.805MB
   server: waynn.makeup
   port: 443
   type: vmess
@@ -466,14 +466,14 @@ proxies:
     path: /
     headers:
       Host: waynn.makeup
-- name: 🇺🇸US-66.132.162.32-0083 | 33.79MB
+- name: 🇺🇸US-66.132.162.32-0083 | 33.736MB
   server: us1.n305.dynu.net
   port: 16389
   type: trojan
   password: a2db6566-32c7-4e6e-89d7-b258ff55959f
   sni: us1.n305.dynu.net
   skip-cert-verify: false
-- name: 🇳🇱NL-81.28.12.12-0741 | 33.482MB
+- name: 🇳🇱NL-81.28.12.12-0741 | 31.385MB
   server: nngxxx.link
   port: 443
   type: vmess
@@ -487,13 +487,13 @@ proxies:
     path: /
     headers:
       Host: nngxxx.link
-- name: IE-52.178.196.119-0899 | 32.995MB
+- name: IE-52.178.196.119-0899 | 30.854MB
   server: 52.178.196.119
   port: 3214
   type: ss
   cipher: chacha20-ietf-poly1305
   password: q9GzATW3TVCcS7oaxO5pAi
-- name: 🇺🇸US-165.1.79.252-0095 | 32.981MB
+- name: 🇺🇸US-165.1.79.252-0095 | 30.791MB
   server: 165.1.79.252
   port: 19344
   type: vmess
@@ -507,7 +507,7 @@ proxies:
     path: /
     headers:
       Host: soe.cheeshon.cyou
-- name: RELAY-104.16.120.247-3650 | 32.859MB
+- name: RELAY-104.16.120.247-3650 | 30.776MB
   server: cfcdn2.sanfencdn9.com
   port: 2052
   type: vmess
@@ -521,7 +521,7 @@ proxies:
     path: /
     headers:
       Host: 7nAi74jJsg1.yofnhkfc.xyz
-- name: RELAY-104.21.50.177-3616 | 32.855MB
+- name: RELAY-104.21.50.177-3616 | 29.329MB
   server: 104.21.50.177
   port: 443
   type: vmess
@@ -530,13 +530,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.50.177-3616 | 32.855MB
+  servername: RELAY-104.21.50.177-3616 | 29.329MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: alvvin.click
-- name: 🇺🇸US-165.1.79.252-1070 | 32.568MB
+- name: 🇺🇸US-165.1.79.252-1070 | 28.93MB
   server: 165.1.79.252
   port: 19344
   type: vmess
@@ -548,14 +548,14 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: IE-63.33.115.178-1947 | 32.564MB
+- name: IE-63.33.115.178-1947 | 25.344MB
   server: 63.33.115.178
   port: 22222
   type: trojan
   password: telegram-id-directvpn
   sni: trojan.miwan.co.uk
   skip-cert-verify: false
-- name: RELAY-162.159.36.5-1364 | 32.463MB
+- name: RELAY-162.159.36.5-1364 | 25.341MB
   server: 08dfde51-8c5d-4160-8732-0745507cfd5b.cloudflare-gateway.com
   port: 443
   type: vmess
@@ -569,7 +569,7 @@ proxies:
     path: /
     headers:
       Host: mikasa.erenyeager.cloudns.biz
-- name: RELAY-188.114.97.7-2330 | 32.4MB
+- name: RELAY-188.114.97.7-2330 | 24.523MB
   server: 188.114.97.7
   port: 443
   type: vmess
@@ -578,19 +578,19 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-188.114.97.7-2330 | 32.4MB
+  servername: RELAY-188.114.97.7-2330 | 24.523MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: waynn.makeup
-- name: 🇺🇸US-45.55.2.232-0753 | 32.287MB
+- name: 🇺🇸US-45.55.2.232-0753 | 24.202MB
   server: 45.55.2.232
   port: 14293
   type: ss
   cipher: aes-256-cfb
   password: 2170f8
-- name: RELAY-188.114.97.1-2341 | 32.206MB
+- name: RELAY-188.114.97.1-2341 | 23.986MB
   server: 188.114.97.1
   port: 443
   type: vmess
@@ -599,13 +599,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-188.114.97.1-2341 | 32.206MB
+  servername: RELAY-188.114.97.1-2341 | 23.986MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: odelia.autos
-- name: 🇺🇸US-38.14.107.227-0048 | 32.152MB
+- name: 🇺🇸US-38.14.107.227-0048 | 23.892MB
   server: 38.14.107.227
   port: 38100
   type: vmess
@@ -619,7 +619,7 @@ proxies:
     path: /
     headers:
       Host: www.23179753.xyz
-- name: RELAY-104.21.31.183-6858 | 31.913MB
+- name: RELAY-104.21.31.183-6858 | 23.587MB
   server: octavi.cfd
   port: 443
   type: vmess
@@ -628,19 +628,19 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.31.183-6858 | 31.913MB
+  servername: RELAY-104.21.31.183-6858 | 23.587MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: octavi.cfd
-- name: 🇺🇸US-212.102.47.198-0746 | 31.768MB
+- name: 🇺🇸US-212.102.47.198-0746 | 22.081MB
   server: 212.102.47.198
   port: 443
   type: ss
   cipher: aes-128-cfb
   password: shadowsocks
-- name: RELAY-172.67.215.202-0049 | 31.513MB
+- name: RELAY-172.67.215.202-0049 | 21.373MB
   server: 172.67.215.202
   port: 443
   type: vmess
@@ -649,13 +649,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-172.67.215.202-0049 | 31.513MB
+  servername: RELAY-172.67.215.202-0049 | 21.373MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: octavi.cfd
-- name: RELAY-104.21.91.254-2336 | 31.347MB
+- name: RELAY-104.21.91.254-2336 | 19.947MB
   server: 104.21.91.254
   port: 443
   type: vmess
@@ -664,26 +664,26 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.91.254-2336 | 31.347MB
+  servername: RELAY-104.21.91.254-2336 | 19.947MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: waynn.makeup
-- name: 🇬🇧GB-45.76.130.173-0116 | 31.153MB
+- name: 🇬🇧GB-45.76.130.173-0116 | 19.898MB
   server: 45.76.130.173
   port: 443
   type: trojan
   password: wkmY1R4EcP
   sni: z-v2-003289.kailib.com
   skip-cert-verify: false
-- name: 🇬🇧GB-51.143.138.171-0793 | 30.436MB
+- name: 🇬🇧GB-51.143.138.171-0793 | 19.88MB
   server: 51.143.138.171
   port: 9424
   type: ss
   cipher: chacha20-ietf-poly1305
   password: EaCRQJmijrVP3uZuCwDLr9
-- name: RELAY-162.159.6.6-0168 | 30.336MB
+- name: RELAY-162.159.6.6-0168 | 19.468MB
   server: yh1.freeh1.xyz
   port: 8080
   type: vmess
@@ -697,7 +697,7 @@ proxies:
     path: /
     headers:
       Host: larger-marketing-amounts-skin.trycloudflare.com
-- name: 🇺🇸US-38.14.107.242-0152 | 30.324MB
+- name: 🇺🇸US-38.14.107.242-0152 | 19.309MB
   server: 38.14.107.242
   port: 38100
   type: vmess
@@ -706,13 +706,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: 🇺🇸US-38.14.107.242-0152 | 30.324MB
+  servername: 🇺🇸US-38.14.107.242-0152 | 19.309MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: www.23179753.xyz
-- name: RELAY-172.67.196.112-1358 | 30.158MB
+- name: RELAY-172.67.196.112-1358 | 19.259MB
   server: kellie.makeup
   port: 443
   type: vmess
@@ -726,7 +726,7 @@ proxies:
     path: /
     headers:
       Host: kellie.makeup
-- name: 🇺🇸US-38.14.107.229-1233 | 29.967MB
+- name: 🇺🇸US-38.14.107.229-1233 | 19.121MB
   server: 38.14.107.229
   port: 38100
   type: vmess
@@ -740,7 +740,7 @@ proxies:
     path: /
     headers:
       Host: www.23179753.xyz
-- name: 🇬🇧GB-51.38.64.145-0081 | 29.948MB
+- name: 🇬🇧GB-51.38.64.145-0081 | 18.952MB
   server: 51.38.64.145
   port: 2086
   type: vmess
@@ -754,19 +754,19 @@ proxies:
     path: /
     headers:
       Host: internet.life.com.by
-- name: 🇬🇧GB-51.143.138.98-1949 | 29.471MB
+- name: 🇬🇧GB-51.143.138.98-1949 | 18.903MB
   server: 51.143.138.98
   port: 47763
   type: ss
   cipher: chacha20-ietf-poly1305
   password: hzXn7UYop5msnpf3DyzcYT
-- name: 🇬🇧GB-51.143.138.181-0774 | 29.292MB
+- name: 🇬🇧GB-51.143.138.181-0774 | 18.57MB
   server: 51.143.138.181
   port: 25664
   type: ss
   cipher: chacha20-ietf-poly1305
   password: T53sUVc6QhOja2R5CZPGCd
-- name: RELAY-188.114.96.3-2412 | 29.248MB
+- name: RELAY-188.114.96.3-2412 | 18.418MB
   server: 188.114.96.3
   port: 443
   type: vmess
@@ -775,25 +775,25 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-188.114.96.3-2412 | 29.248MB
+  servername: RELAY-188.114.96.3-2412 | 18.418MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: oliv.beauty
-- name: 🇬🇧GB-3.11.180.253-0751 | 29.192MB
+- name: 🇬🇧GB-3.11.180.253-0751 | 18.186MB
   server: v1.arvancode.eu.org
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: mps3FwmDjLrWaOVg
-- name: 🇬🇧GB-35.176.150.177-0758 | 29.181MB
+- name: 🇬🇧GB-35.176.150.177-0758 | 18.069MB
   server: wxwctxxx.arvancode.eu.org
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: u17T3BvpYaaiuW2c
-- name: 🇺🇸US-38.14.107.226-1181 | 29.174MB
+- name: 🇺🇸US-38.14.107.226-1181 | 17.911MB
   server: 38.14.107.226
   port: 38100
   type: vmess
@@ -807,49 +807,49 @@ proxies:
     path: /
     headers:
       Host: www.23179753.xyz
-- name: 🇬🇧GB-3.11.180.253-0756 | 29.17MB
+- name: 🇬🇧GB-3.11.180.253-0756 | 17.908MB
   server: series-a2.samanehha.co
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: mps3FwmDjLrWaOVg
-- name: 🇬🇧GB-3.11.180.253-0759 | 29.064MB
+- name: 🇬🇧GB-3.11.180.253-0759 | 17.901MB
   server: java.ct.arvancode.eu.org
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: W74XFALLLuw6m5IA
-- name: 🇬🇧GB-51.142.159.23-0765 | 28.933MB
+- name: 🇬🇧GB-51.142.159.23-0765 | 17.897MB
   server: 51.142.159.23
   port: 32790
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 5ii16fmPTms8icYnYvxUfa
-- name: 🇬🇧GB-13.43.32.133-0763 | 28.933MB
+- name: 🇬🇧GB-13.43.32.133-0763 | 17.883MB
   server: series-a2-me.samanehha.co
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: Bog0ELmMM9DSxDdQ
-- name: 🇬🇧GB-35.176.150.177-0761 | 28.919MB
+- name: 🇬🇧GB-35.176.150.177-0761 | 17.837MB
   server: series-a2-mec.samanehha.co
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: u17T3BvpYaaiuW2c
-- name: 🇬🇧GB-51.142.173.103-0783 | 28.915MB
+- name: 🇬🇧GB-51.142.173.103-0783 | 17.745MB
   server: 51.142.173.103
   port: 51899
   type: ss
   cipher: chacha20-ietf-poly1305
   password: gcpVehVytslepmkHHRLXYx
-- name: 🇬🇧GB-3.11.180.253-0773 | 28.883MB
+- name: 🇬🇧GB-3.11.180.253-0773 | 17.652MB
   server: java.ct.arvancode.eu.Org
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: W74XFALLLuw6m5IA
-- name: RELAY-104.21.4.29-2393 | 28.793MB
+- name: RELAY-104.21.4.29-2393 | 17.641MB
   server: 104.21.4.29
   port: 443
   type: vmess
@@ -858,25 +858,25 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.4.29-2393 | 28.793MB
+  servername: RELAY-104.21.4.29-2393 | 17.641MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: oliv.beauty
-- name: 🇬🇧GB-13.43.32.133-0755 | 28.746MB
+- name: 🇬🇧GB-13.43.32.133-0755 | 17.544MB
   server: jseyu.arvancode.eu.Org
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: Bog0ELmMM9DSxDdQ
-- name: 🇬🇧GB-3.11.180.253-0754 | 28.718MB
+- name: 🇬🇧GB-3.11.180.253-0754 | 17.464MB
   server: series-a1.samanehha.co
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: W74XFALLLuw6m5IA
-- name: RELAY-104.16.120.247-3649 | 28.704MB
+- name: RELAY-104.16.120.247-3649 | 17.409MB
   server: cfcdn2.sanfencdn9.com
   port: 2052
   type: vmess
@@ -890,38 +890,38 @@ proxies:
     path: /
     headers:
       Host: rpmlybgzsg2.yofnhkfc.xyz
-- name: 🇬🇧GB-13.43.32.133-0757 | 28.704MB
+- name: 🇬🇧GB-13.43.32.133-0757 | 17.29MB
   server: jseyu.arvancode.eu.org
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: Bog0ELmMM9DSxDdQ
-- name: 🇳🇱NL-103.214.68.57-0764 | 28.643MB
+- name: 🇳🇱NL-103.214.68.57-0764 | 17.258MB
   server: 103.214.68.57
   port: 10003
   type: trojan
   password: 6x8HcghsjS
   sni: yes998.chickenkiller.com
   skip-cert-verify: false
-- name: 🇳🇱NL-172.233.51.96-1831 | 28.551MB
+- name: 🇳🇱NL-172.233.51.96-1831 | 17.211MB
   server: masting.xyz
   port: 8080
   type: ss
   cipher: chacha20-ietf-poly1305
   password: XlUFgoOqDlVqlZFD3Js0YA
-- name: 🇳🇱NL-109.201.152.181-0767 | 28.506MB
+- name: 🇳🇱NL-109.201.152.181-0767 | 17.108MB
   server: 109.201.152.181
   port: 443
   type: ss
   cipher: aes-128-cfb
   password: shadowsocks
-- name: 🇳🇱NL-172.233.51.96-0762 | 28.495MB
+- name: 🇳🇱NL-172.233.51.96-0762 | 17.029MB
   server: masting.xyz
   port: 8080
   type: ss
   cipher: chacha20-ietf-poly1305
   password: XlUFgoOqDlVqlZFD3Js0YA
-- name: 🇬🇧GB-172.99.190.109-1359 | 28.429MB
+- name: 🇬🇧GB-172.99.190.109-1359 | 16.975MB
   server: 172.99.190.109
   port: 443
   type: vmess
@@ -933,13 +933,13 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: 🇫🇷FR-51.15.27.48-0768 | 28.328MB
+- name: 🇫🇷FR-51.15.27.48-0768 | 16.82MB
   server: 51.15.27.48
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: RELAY-104.21.90.218-0744 | 28.265MB
+- name: RELAY-104.21.90.218-0744 | 16.748MB
   server: 104.21.90.218
   port: 2086
   type: vmess
@@ -953,27 +953,27 @@ proxies:
     path: /
     headers:
       Host: index.zhaal.ir
-- name: 🇫🇷FR-13.38.206.183-0150 | 28.026MB
+- name: 🇫🇷FR-13.38.206.183-0150 | 16.424MB
   server: 13.38.206.183
   port: 22222
   type: trojan
   password: telegram-id-directvpn
   sni: trojan.miwan.co.uk
   skip-cert-verify: false
-- name: 🇳🇱NL-209.250.246.191-0144 | 27.697MB
+- name: 🇳🇱NL-209.250.246.191-0144 | 16.068MB
   server: 209.250.246.191
   port: 443
   type: trojan
   password: wkmY1R4EcP
   sni: z-v2-003294.kailib.com
   skip-cert-verify: false
-- name: 🇫🇷FR-195.154.169.198-0775 | 27.11MB
+- name: 🇫🇷FR-195.154.169.198-0775 | 16.061MB
   server: 195.154.169.198
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇺🇸US-80.92.205.112-0811 | 27.107MB
+- name: 🇺🇸US-80.92.205.112-0811 | 15.728MB
   server: 80.92.205.112
   port: 443
   type: vmess
@@ -985,19 +985,19 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: 🇫🇷FR-195.154.185.174-0792 | 27.069MB
+- name: 🇫🇷FR-195.154.185.174-0792 | 15.702MB
   server: 195.154.185.174
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇫🇷FR-141.11.189.249-1328 | 26.747MB
+- name: 🇫🇷FR-141.11.189.249-1328 | 15.632MB
   server: beecomf.xyz
   port: 8080
   type: ss
   cipher: chacha20-ietf-poly1305
   password: oZIoA69Q8yhcQV8ka3Pa3A
-- name: RELAY-104.21.27.139-2380 | 26.728MB
+- name: RELAY-104.21.27.139-2380 | 15.511MB
   server: 104.21.27.139
   port: 443
   type: vmess
@@ -1006,25 +1006,25 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.27.139-2380 | 26.728MB
+  servername: RELAY-104.21.27.139-2380 | 15.511MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: edeen.makeup
-- name: 🇫🇷FR-51.159.111.208-0777 | 26.572MB
+- name: 🇫🇷FR-51.159.111.208-0777 | 15.368MB
   server: 51.159.111.208
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇫🇷FR-51.159.111.208-1795 | 26.09MB
+- name: 🇫🇷FR-51.159.111.208-1795 | 15.356MB
   server: 51.159.111.208
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇺🇸US-176.120.75.117-0072 | 25.92MB
+- name: 🇺🇸US-176.120.75.117-0072 | 15.177MB
   server: 176.120.75.117
   port: 80
   type: vmess
@@ -1038,7 +1038,7 @@ proxies:
     path: /
     headers:
       Host: us2.xv2ray.net
-- name: 🇩🇪DE-130.162.47.123-9586 | 25.897MB
+- name: 🇩🇪DE-130.162.47.123-9586 | 14.615MB
   server: 130.162.47.123
   port: 6854
   type: vmess
@@ -1050,13 +1050,13 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: 🇩🇪DE-159.69.12.205-0790 | 25.239MB
+- name: 🇩🇪DE-159.69.12.205-0790 | 14.581MB
   server: 159.69.12.205
   port: 25365
   type: ss
   cipher: aes-128-gcm
   password: TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON
-- name: RELAY-172.67.131.150-2370 | 25.225MB
+- name: RELAY-172.67.131.150-2370 | 14.472MB
   server: 172.67.131.150
   port: 443
   type: vmess
@@ -1065,13 +1065,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-172.67.131.150-2370 | 25.225MB
+  servername: RELAY-172.67.131.150-2370 | 14.472MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: oliv.beauty
-- name: RELAY-104.21.31.183-2352 | 25.193MB
+- name: RELAY-104.21.31.183-2352 | 14.293MB
   server: 104.21.31.183
   port: 443
   type: vmess
@@ -1080,25 +1080,25 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-104.21.31.183-2352 | 25.193MB
+  servername: RELAY-104.21.31.183-2352 | 14.293MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: octavi.cfd
-- name: CH-156.146.62.160-0791 | 25.151MB
+- name: CH-156.146.62.160-0791 | 14.009MB
   server: 156.146.62.160
   port: 443
   type: ss
   cipher: aes-128-cfb
   password: shadowsocks
-- name: AT-185.180.12.81-0794 | 25.062MB
+- name: AT-185.180.12.81-0794 | 13.66MB
   server: 185.180.12.81
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇩🇪DE-130.162.47.123-9588 | 24.655MB
+- name: 🇩🇪DE-130.162.47.123-9588 | 13.629MB
   server: 130.162.47.123
   port: 6854
   type: vmess
@@ -1110,7 +1110,7 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: 🇩🇪DE-217.160.45.31-0369 | 24.561MB
+- name: 🇩🇪DE-217.160.45.31-0369 | 13.428MB
   server: 217.160.45.31
   port: 8880
   type: vmess
@@ -1122,7 +1122,7 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: RELAY-172.67.183.110-2356 | 24.124MB
+- name: RELAY-172.67.183.110-2356 | 13.149MB
   server: 172.67.183.110
   port: 443
   type: vmess
@@ -1131,25 +1131,25 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-172.67.183.110-2356 | 24.124MB
+  servername: RELAY-172.67.183.110-2356 | 13.149MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: waynn.makeup
-- name: 🇵🇱PL-217.30.10.70-0796 | 24.078MB
+- name: 🇵🇱PL-217.30.10.70-0796 | 13.04MB
   server: 217.30.10.70
   port: 9044
   type: ss
   cipher: aes-256-cfb
   password: KBGjZYcy4SyRShmA
-- name: 🇺🇸US-74.121.191.98-0813 | 23.853MB
+- name: 🇺🇸US-74.121.191.98-0813 | 12.977MB
   server: 74.121.191.98
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: RELAY-104.18.36.174-0087 | 23.815MB
+- name: RELAY-104.18.36.174-0087 | 12.832MB
   server: 104.18.36.174
   port: 8880
   type: vmess
@@ -1163,7 +1163,7 @@ proxies:
     path: /
     headers:
       Host: us6gzxQRrE4.fzbqfrse.xyz
-- name: 🇺🇸US-176.120.75.117-1228 | 23.026MB
+- name: 🇺🇸US-176.120.75.117-1228 | 12.535MB
   server: 176.120.75.117
   port: 80
   type: vmess
@@ -1177,7 +1177,7 @@ proxies:
     path: /
     headers:
       Host: us2.xv2ray.net
-- name: RELAY-104.18.36.174-0074 | 22.908MB
+- name: RELAY-104.18.36.174-0074 | 12.346MB
   server: cfcdn1.sanfencdn9.com
   port: 8880
   type: vmess
@@ -1191,20 +1191,20 @@ proxies:
     path: /
     headers:
       Host: us6gzxQRrE4.fzbqfrse.xyz
-- name: SE-121.127.46.147-0802 | 22.803MB
+- name: SE-121.127.46.147-0802 | 11.948MB
   server: 121.127.46.147
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: SE-16.16.191.108-0071 | 22.674MB
+- name: SE-16.16.191.108-0071 | 11.889MB
   server: 16.16.191.108
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.miwan.co.uk
   skip-cert-verify: false
-- name: RELAY-104.21.16.62-0076 | 22.638MB
+- name: RELAY-104.21.16.62-0076 | 11.525MB
   server: irene.lat
   port: 443
   type: vmess
@@ -1218,14 +1218,14 @@ proxies:
     path: /
     headers:
       Host: irene.lat
-- name: SE-13.48.113.179-0128 | 22.506MB
+- name: SE-13.48.113.179-0128 | 11.502MB
   server: 13.48.113.179
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.miwan.co.uk
   skip-cert-verify: false
-- name: RELAY-172.67.142.191-2360 | 22.478MB
+- name: RELAY-172.67.142.191-2360 | 11.457MB
   server: 172.67.142.191
   port: 443
   type: vmess
@@ -1234,13 +1234,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-172.67.142.191-2360 | 22.478MB
+  servername: RELAY-172.67.142.191-2360 | 11.457MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: edeen.makeup
-- name: RELAY-172.67.220.64-0110 | 22.456MB
+- name: RELAY-172.67.220.64-0110 | 9.317MB
   server: 172.67.220.64
   port: 443
   type: vmess
@@ -1254,13 +1254,13 @@ proxies:
     path: /
     headers:
       Host: www.31000oooowe2.bf
-- name: RO-194.14.217.115-0804 | 22.004MB
+- name: RO-194.14.217.115-0804 | 8.919MB
   server: 194.14.217.115
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: RELAY-188.114.96.7-2359 | 21.835MB
+- name: RELAY-188.114.96.7-2359 | 8.56MB
   server: 188.114.96.7
   port: 443
   type: vmess
@@ -1269,31 +1269,31 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-188.114.96.7-2359 | 21.835MB
+  servername: RELAY-188.114.96.7-2359 | 8.56MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: octavi.cfd
-- name: FI-37.143.129.230-0845 | 21.712MB
+- name: FI-37.143.129.230-0845 | 8.479MB
   server: 37.143.129.230
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇬🇧GB-77.72.5.150-0862 | 21.676MB
+- name: 🇬🇧GB-77.72.5.150-0862 | 8.342MB
   server: 77.72.5.150
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: AL-31.171.153.181-0808 | 21.265MB
+- name: AL-31.171.153.181-0808 | 8.224MB
   server: 31.171.153.181
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: RELAY-172.64.33.100-0158 | 21.235MB
+- name: RELAY-172.64.33.100-0158 | 6.502MB
   server: yh1.freeh1.xyz
   port: 8080
   type: vmess
@@ -1307,13 +1307,13 @@ proxies:
     path: /
     headers:
       Host: bibliographic-sword-sequence-advertisers.trycloudflare.com
-- name: UA-5.188.6.8-0821 | 20.848MB
+- name: UA-5.188.6.8-0821 | 6.266MB
   server: 5.188.6.8
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: RELAY-104.16.149.244-0139 | 20.837MB
+- name: RELAY-104.16.149.244-0139 | 6.076MB
   server: fbi.gov
   port: 8080
   type: vmess
@@ -1327,37 +1327,37 @@ proxies:
     path: /
     headers:
       Host: nest-emily-healing-h.trycloudflare.com
-- name: 🇯🇵JP-154.47.20.240-0824 | 20.696MB
+- name: 🇯🇵JP-154.47.20.240-0824 | 5.793MB
   server: 154.47.20.240
   port: 443
   type: ss
   cipher: aes-128-gcm
   password: shadowsocks
-- name: 🇬🇧GB-77.72.5.113-0866 | 20.24MB
+- name: 🇬🇧GB-77.72.5.113-0866 | 5.586MB
   server: 77.72.5.113
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇪🇸ES-5.188.181.201-8947 | 20.233MB
+- name: 🇪🇸ES-5.188.181.201-8947 | 5.485MB
   server: 5.188.181.201
   port: 9040
   type: ss
   cipher: aes-256-cfb
   password: p9z5BVADH2YFs3MN
-- name: 🇯🇵JP-3.112.221.226-3654 | 20.141MB
+- name: 🇯🇵JP-3.112.221.226-3654 | 5.48MB
   server: 3.112.221.226
   port: 443
   type: ss
   cipher: aes-256-cfb
   password: amazonskr05
-- name: 🇯🇵JP-18.183.177.131-3653 | 20.102MB
+- name: 🇯🇵JP-18.183.177.131-3653 | 5.471MB
   server: 18.183.177.131
   port: 443
   type: ss
   cipher: aes-256-cfb
   password: amazonskr05
-- name: RELAY-104.21.12.103-8741 | 18.051MB
+- name: RELAY-104.21.12.103-8741 | 5.331MB
   server: ming2.kiwireich.com
   port: 443
   type: vmess
@@ -1371,13 +1371,13 @@ proxies:
     path: /
     headers:
       Host: ming2.kiwireich.com
-- name: AZ-180.149.44.120-0828 | 17.502MB
+- name: AZ-180.149.44.120-0828 | 5.325MB
   server: 180.149.44.120
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: RELAY-104.21.94.99-0838 | 17.217MB
+- name: RELAY-104.21.94.99-0838 | 4.881MB
   server: www.blueberrywindow.online
   port: 8080
   type: vmess
@@ -1391,19 +1391,19 @@ proxies:
     path: /
     headers:
       Host: www.blueberrywindow.online
-- name: 🇨🇦CA-134.195.196.178-0871 | 16.826MB
+- name: 🇨🇦CA-134.195.196.178-0871 | 4.804MB
   server: 134.195.196.178
   port: 811
   type: ss
   cipher: chacha20-ietf-poly1305
   password: G!yBwPWH3Vao
-- name: BA-185.164.35.9-0825 | 16.603MB
+- name: BA-185.164.35.9-0825 | 4.288MB
   server: 185.164.35.9
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇯🇵JP-141.147.174.139-3656 | 15.415MB
+- name: 🇯🇵JP-141.147.174.139-3656 | 4.254MB
   server: 141.147.174.139
   port: 33003
   type: vmess
@@ -1417,25 +1417,25 @@ proxies:
     path: /
     headers:
       Host: jp-tokyo-oracle-dc8895.ip1.shop
-- name: 🇨🇦CA-134.195.196.178-0875 | 15.244MB
+- name: 🇨🇦CA-134.195.196.178-0875 | 4.204MB
   server: 134.195.196.178
   port: 804
   type: ss
   cipher: chacha20-ietf-poly1305
   password: G!yBwPWH3Vao
-- name: 🇪🇸ES-5.188.181.201-0837 | 15.047MB
+- name: 🇪🇸ES-5.188.181.201-0837 | 4.078MB
   server: 5.188.181.201
   port: 9041
   type: ss
   cipher: aes-256-cfb
   password: U6qnYRhfyDmn8sgn
-- name: 🇪🇸ES-5.188.181.201-0840 | 15.029MB
+- name: 🇪🇸ES-5.188.181.201-0840 | 4.004MB
   server: 5.188.181.201
   port: 9031
   type: ss
   cipher: aes-256-cfb
   password: BwcAUZk8hUFAkDGN
-- name: 🇰🇷KR-193.123.246.232-1259 | 13.716MB
+- name: 🇰🇷KR-193.123.246.232-1259 | 3.92MB
   server: kr.pxiz.site
   port: 28902
   type: vmess
@@ -1449,7 +1449,7 @@ proxies:
     path: /
     headers:
       Host: baidu.com
-- name: RELAY-172.64.172.13-0145 | 13.616MB
+- name: RELAY-172.64.172.13-0145 | 3.868MB
   server: 172.64.172.13
   port: 80
   type: vmess
@@ -1463,7 +1463,7 @@ proxies:
     path: /
     headers:
       Host: newde1.xn--mes53ddysu0o3gl.top
-- name: 🇰🇷KR-64.110.79.53-3657 | 13.582MB
+- name: 🇰🇷KR-64.110.79.53-3657 | 3.775MB
   server: 64.110.79.53
   port: 42752
   type: vmess
@@ -1477,7 +1477,7 @@ proxies:
     path: /
     headers:
       Host: kr.yydsii.com
-- name: 🇰🇷KR-152.67.218.38-3886 | 13.267MB
+- name: 🇰🇷KR-152.67.218.38-3886 | 3.361MB
   server: 152.67.218.38
   port: 443
   type: vmess
@@ -1489,19 +1489,19 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: 🇪🇸ES-5.188.181.201-0818 | 13.175MB
+- name: 🇪🇸ES-5.188.181.201-0818 | 3.349MB
   server: 5.188.181.201
   port: 9042
   type: ss
   cipher: aes-256-cfb
   password: S7KwUu7yBy58S3Ga
-- name: 🇪🇸ES-5.188.181.201-0819 | 13.091MB
+- name: 🇪🇸ES-5.188.181.201-0819 | 3.346MB
   server: 5.188.181.201
   port: 9030
   type: ss
   cipher: aes-256-cfb
   password: GeregetR8cvQHzYr
-- name: 🇰🇷KR-152.67.218.38-6091 | 12.704MB
+- name: 🇰🇷KR-152.67.218.38-6091 | 3.33MB
   server: 152.67.218.38
   port: 443
   type: vmess
@@ -1515,7 +1515,7 @@ proxies:
     path: /
     headers:
       Host: 152.67.218.38
-- name: 🇰🇷KR-43.201.59.186-0146 | 12.378MB
+- name: 🇰🇷KR-43.201.59.186-0146 | 3.09MB
   server: kr01.36routes.online
   port: 80
   type: vmess
@@ -1529,7 +1529,7 @@ proxies:
     path: /
     headers:
       Host: kr01.36routes.online
-- name: 🇰🇷KR-193.123.246.232-0090 | 11.966MB
+- name: 🇰🇷KR-193.123.246.232-0090 | 2.864MB
   server: kr.pxiz.site
   port: 28902
   type: vmess
@@ -1543,7 +1543,7 @@ proxies:
     path: /
     headers:
       Host: baidu.com
-- name: GR-94.131.8.32-1238 | 11.889MB
+- name: GR-94.131.8.32-1238 | 2.653MB
   server: 94.131.8.32
   port: 2082
   type: vmess
@@ -1557,7 +1557,7 @@ proxies:
     path: /
     headers:
       Host: 94.131.8.32
-- name: 🇯🇵JP-138.2.39.55-0067 | 11.786MB
+- name: 🇯🇵JP-138.2.39.55-0067 | 2.567MB
   server: japan.pxiz.site
   port: 54752
   type: vmess
@@ -1571,7 +1571,7 @@ proxies:
     path: /
     headers:
       Host: baidu.com
-- name: 🇯🇵JP-152.69.197.74-3186 | 11.7MB
+- name: 🇯🇵JP-152.69.197.74-3186 | 2.114MB
   server: 152.69.197.74
   port: 12345
   type: vmess
@@ -1583,14 +1583,14 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: 🇸🇬SG-128.199.183.65-0835 | 11.668MB
+- name: 🇸🇬SG-128.199.183.65-0835 | 1.878MB
   server: 128.199.183.65
   port: 20017
   type: trojan
   password: ee2d164e-ee98-4f0b-ac21-1b5bdca4024f
   sni: tls.qqwljs.buzz
   skip-cert-verify: false
-- name: 🇯🇵JP-138.2.39.55-1289 | 11.59MB
+- name: 🇯🇵JP-138.2.39.55-1289 | 1.721MB
   server: japan.pxiz.site
   port: 54752
   type: vmess
@@ -1604,32 +1604,32 @@ proxies:
     path: /
     headers:
       Host: baidu.com
-- name: 🇸🇬SG-128.199.183.69-0172 | 11.547MB
+- name: 🇸🇬SG-128.199.183.69-0172 | 1.494MB
   server: 128.199.183.69
   port: 20022
   type: trojan
   password: ee2d164e-ee98-4f0b-ac21-1b5bdca4024f
   sni: tls.qqwljs.buzz
   skip-cert-verify: false
-- name: ZA-41.203.4.34-0832 | 11.184MB
+- name: ZA-41.203.4.34-0832 | 1.337MB
   server: 41.203.4.34
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇸🇬SG-103.172.116.103-3662 | 11.013MB
+- name: 🇸🇬SG-103.172.116.103-3662 | 1.324MB
   server: 103.172.116.103
   port: 9046
   type: ss
   cipher: aes-256-cfb
   password: NvS8N4Vf8qAGPSCL
-- name: 🇸🇬SG-103.172.116.103-0864 | 10.885MB
+- name: 🇸🇬SG-103.172.116.103-0864 | 1.295MB
   server: 103.172.116.103
   port: 9018
   type: ss
   cipher: aes-256-cfb
   password: fG2artUmHfNT2cX7
-- name: RELAY-172.67.204.84-1287 | 10.798MB
+- name: RELAY-172.67.204.84-1287 | 1.26MB
   server: 172.67.204.84
   port: 80
   type: vmess
@@ -1643,14 +1643,14 @@ proxies:
     path: /
     headers:
       Host: fi2-vmess.sshmax.xyz
-- name: 🇸🇬SG-157.245.149.232-0121 | 10.717MB
+- name: 🇸🇬SG-157.245.149.232-0121 | 1.257MB
   server: 157.245.149.232
   port: 20021
   type: trojan
   password: ee2d164e-ee98-4f0b-ac21-1b5bdca4024f
   sni: tls.qqwljs.buzz
   skip-cert-verify: false
-- name: 🇸🇬SG-68.183.228.18-0107 | 10.6MB
+- name: 🇸🇬SG-68.183.228.18-0107 | 1.254MB
   server: sg03.beautifulprimavera.online
   port: 80
   type: vmess
@@ -1664,13 +1664,13 @@ proxies:
     path: /
     headers:
       Host: sg03.beautifulprimavera.online
-- name: 🇨🇳CN-183.236.53.120-3655 | 10.564MB
+- name: 🇨🇳CN-183.236.53.120-3655 | 1.192MB
   server: nn.auozzjs.lol
   port: 40756
   type: ss
   cipher: chacha20-ietf-poly1305
   password: cee0134c-d95b-443f-b9e7-6a320208a045
-- name: RELAY-104.21.20.16-1237 | 10.56MB
+- name: RELAY-104.21.20.16-1237 | 1.156MB
   server: 104.21.20.16
   port: 443
   type: vmess
@@ -1684,44 +1684,44 @@ proxies:
     path: /
     headers:
       Host: se2-vmess.sshmax.xyz
-- name: 🇰🇷KR-221.150.109.11-3646 | 10.412MB
+- name: 🇰🇷KR-221.150.109.11-3646 | 1.151MB
   server: p238.panda004.net
   port: 52771
   type: ss
   cipher: aes-256-cfb
   password: qwerREWQ@@
-- name: 🇸🇬SG-103.172.116.103-0868 | 10.33MB
+- name: 🇸🇬SG-103.172.116.103-0868 | 1.135MB
   server: 103.172.116.103
   port: 9014
   type: ss
   cipher: aes-256-cfb
   password: KnJGad3FqTvjqbaX
-- name: 🇯🇵JP-172.207.191.4-0073 | 10.263MB
+- name: 🇯🇵JP-172.207.191.4-0073 | 1.11MB
   server: ru.mjt000.com
   port: 443
   type: trojan
   password: fbf636af-83a6-4d43-aa50-c041041c10cc
   skip-cert-verify: false
-- name: VN-103.163.218.2-0842 | 9.828MB
+- name: VN-103.163.218.2-0842 | 1.109MB
   server: 103.163.218.2
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇨🇳TW-118.165.43.53-0065 | 9.351MB
+- name: 🇨🇳TW-118.165.43.53-0065 | 1.095MB
   server: b12.ntbq.dynu.net
   port: 9755
   type: trojan
   password: a2db6566-32c7-4e6e-89d7-b258ff55959f
   sni: b12.ntbq.dynu.net
   skip-cert-verify: false
-- name: VN-103.163.218.2-1722 | 8.984MB
+- name: VN-103.163.218.2-1722 | 1.092MB
   server: 103.163.218.2
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇩🇪DE-95.164.89.225-0079 | 8.463MB
+- name: 🇩🇪DE-95.164.89.225-0079 | 1.091MB
   server: 95.164.89.225
   port: 38153
   type: vmess
@@ -1735,7 +1735,7 @@ proxies:
     path: /
     headers:
       Host: 95.164.89.225
-- name: RELAY-172.67.229.33-2345 | 8.354MB
+- name: RELAY-172.67.229.33-2345 | 1.088MB
   server: 172.67.229.33
   port: 2086
   type: vmess
@@ -1749,7 +1749,7 @@ proxies:
     path: /
     headers:
       Host: ca6.tehme100.fun
-- name: RELAY-104.18.119.139-1271 | 8.349MB
+- name: RELAY-104.18.119.139-1271 | 1.088MB
   server: 104.18.119.139
   port: 2052
   type: vmess
@@ -1763,25 +1763,25 @@ proxies:
     path: /
     headers:
       Host: wtywwcrzjp5.yofnhkfc.xyz
-- name: 🇸🇬SG-103.172.116.103-3691 | 8.326MB
+- name: 🇸🇬SG-103.172.116.103-3691 | 1.088MB
   server: 103.172.116.103
   port: 9056
   type: ss
   cipher: aes-256-cfb
   password: rNBfNuuANFCAk7KB
-- name: CY-213.169.137.221-0846 | 8.162MB
+- name: CY-213.169.137.221-0846 | 1.087MB
   server: 213.169.137.221
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇰🇷KR-203.234.238.145-3647 | 8.065MB
+- name: 🇰🇷KR-203.234.238.145-3647 | 1.087MB
   server: p225.panda004.net
   port: 39657
   type: ss
   cipher: aes-256-cfb
   password: qwerREWQ@@
-- name: RELAY-172.67.229.34-2381 | 7.842MB
+- name: RELAY-172.67.229.34-2381 | 1.087MB
   server: 172.67.229.34
   port: 2086
   type: vmess
@@ -1795,7 +1795,7 @@ proxies:
     path: /
     headers:
       Host: ca6.tehme100.fun
-- name: RELAY-172.64.68.208-1161 | 7.601MB
+- name: RELAY-172.64.68.208-1161 | 1.086MB
   server: 172.64.68.208
   port: 8080
   type: vmess
@@ -1809,56 +1809,56 @@ proxies:
     path: /
     headers:
       Host: eu3.openxai.link
-- name: 🇸🇬SG-103.172.116.103-3684 | 7.262MB
+- name: 🇸🇬SG-103.172.116.103-3684 | 1.086MB
   server: 103.172.116.103
   port: 9064
   type: ss
   cipher: aes-256-cfb
   password: cp8pRSUAyLhTfVWH
-- name: ZA-129.232.129.156-0852 | 6.946MB
+- name: ZA-129.232.129.156-0852 | 1.086MB
   server: 129.232.129.156
   port: 444
   type: ss
   cipher: chacha20-ietf-poly1305
   password: DiPietyory
-- name: 🇸🇬SG-103.172.116.79-3757 | 6.914MB
+- name: 🇸🇬SG-103.172.116.79-3757 | 1.086MB
   server: 103.172.116.79
   port: 9044
   type: ss
   cipher: aes-256-cfb
   password: KBGjZYcy4SyRShmA
-- name: 🇩🇪DE-3.77.143.98-0901 | 6.766MB
+- name: 🇩🇪DE-3.77.143.98-0901 | 1.086MB
   server: 3.77.143.98
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.miwan.co.uk
   skip-cert-verify: false
-- name: KE-62.12.116.66-0848 | 6.728MB
+- name: KE-62.12.116.66-0848 | 1.085MB
   server: 62.12.116.66
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: NO-185.90.61.153-0874 | 6.649MB
+- name: NO-185.90.61.153-0874 | 1.084MB
   server: 185.90.61.153
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇫🇷FR-51.178.87.37-8934 | 5.798MB
+- name: 🇫🇷FR-51.178.87.37-8934 | 1.084MB
   server: 51.178.87.37
   port: 804
   type: ss
   cipher: chacha20-ietf-poly1305
   password: G!yBwPWH3Vao
-- name: 🇫🇷FR-51.178.87.37-8935 | 5.347MB
+- name: 🇫🇷FR-51.178.87.37-8935 | 1.084MB
   server: 51.178.87.37
   port: 810
   type: ss
   cipher: chacha20-ietf-poly1305
   password: G!yBwPWH3Vao
-- name: RELAY-104.21.20.16-0125 | 5.164MB
+- name: RELAY-104.21.20.16-0125 | 1.084MB
   server: 104.21.20.16
   port: 80
   type: vmess
@@ -1872,7 +1872,7 @@ proxies:
     path: /
     headers:
       Host: fi2-vmess.sshmax.xyz
-- name: RELAY-172.65.255.110-0085 | 5.126MB
+- name: RELAY-172.65.255.110-0085 | 1.083MB
   server: cfcdn3.sanfencdn9.com
   port: 2052
   type: vmess
@@ -1886,13 +1886,13 @@ proxies:
     path: /
     headers:
       Host: wtywwcrzjp5.yofnhkfc.xyz
-- name: AR-190.103.176.29-0854 | 5.124MB
+- name: AR-190.103.176.29-0854 | 1.083MB
   server: 190.103.176.29
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇭🇰HK-182.16.1.194-8766 | 4.851MB
+- name: 🇭🇰HK-182.16.1.194-8766 | 1.083MB
   server: hrgdvpn.flycdnedc55.vip
   port: 80
   type: vmess
@@ -1906,7 +1906,7 @@ proxies:
     path: /
     headers:
       Host: hrgdvpn.flycdnedc55.vip
-- name: RELAY-172.67.132.15-1591 | 4.693MB
+- name: RELAY-172.67.132.15-1591 | 1.083MB
   server: ming2.kiwireich.com
   port: 443
   type: vmess
@@ -1920,34 +1920,34 @@ proxies:
     path: /
     headers:
       Host: ming2.kiwireich.com
-- name: 🇨🇳TW-220.141.133.137-0051 | 4.606MB
+- name: 🇨🇳TW-220.141.133.137-0051 | 1.083MB
   server: ty11t.twty.dynu.net
   port: 13761
   type: trojan
   password: 08c8768a-31ee-447e-81aa-845399553dbf
   sni: ty11t.twty.dynu.net
   skip-cert-verify: false
-- name: 🇨🇳TW-36.226.139.97-0112 | 4.514MB
+- name: 🇨🇳TW-36.226.139.97-0112 | 1.082MB
   server: b24.ntbq.dynu.net
   port: 3271
   type: trojan
   password: a2db6566-32c7-4e6e-89d7-b258ff55959f
   sni: b24.ntbq.dynu.net
   skip-cert-verify: false
-- name: CL-190.120.230.9-0858 | 4.167MB
+- name: CL-190.120.230.9-0858 | 1.082MB
   server: 190.120.230.9
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇨🇳TW-114.45.82.23-0059 | 4.098MB
+- name: 🇨🇳TW-114.45.82.23-0059 | 1.081MB
   server: ty12t.twty.dynu.net
   port: 18912
   type: trojan
   password: bc22f8b6-a366-4c09-812f-64da5a6a15b1
   sni: ty12t.twty.dynu.net
   skip-cert-verify: false
-- name: RELAY-94.140.0.110-0080 | 4.05MB
+- name: RELAY-94.140.0.110-0080 | 1.081MB
   server: 94.140.0.110
   port: 8880
   type: vmess
@@ -1961,25 +1961,25 @@ proxies:
     path: /
     headers:
       Host: food.zhaal.ir
-- name: MX-190.103.179.23-0863 | 4.01MB
+- name: MX-190.103.179.23-0863 | 1.08MB
   server: 190.103.179.23
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇸🇬SG-103.172.116.103-3672 | 3.881MB
+- name: 🇸🇬SG-103.172.116.103-3672 | 1.08MB
   server: 103.172.116.103
   port: 9060
   type: ss
   cipher: aes-256-cfb
   password: ueLXVkvh4hckhErQ
-- name: CO-190.120.231.45-0879 | 3.774MB
+- name: CO-190.120.231.45-0879 | 1.079MB
   server: 190.120.231.45
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇭🇰HK-91.149.236.44-0122 | 3.765MB
+- name: 🇭🇰HK-91.149.236.44-0122 | 1.079MB
   server: 91.149.236.44
   port: 26639
   type: vmess
@@ -1991,7 +1991,7 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: RELAY-172.67.229.38-0153 | 3.536MB
+- name: RELAY-172.67.229.38-0153 | 1.079MB
   server: 172.67.229.38
   port: 2086
   type: vmess
@@ -2005,13 +2005,13 @@ proxies:
     path: /
     headers:
       Host: ca6.tehme100.fun
-- name: 🇸🇬SG-103.172.116.103-3679 | 3.521MB
+- name: 🇸🇬SG-103.172.116.103-3679 | 1.078MB
   server: 103.172.116.103
   port: 9031
   type: ss
   cipher: aes-256-cfb
   password: BwcAUZk8hUFAkDGN
-- name: 🇭🇰HK-212.192.12.231-0084 | 3.517MB
+- name: 🇭🇰HK-212.192.12.231-0084 | 1.078MB
   server: 212.192.12.231
   port: 80
   type: vmess
@@ -2023,7 +2023,7 @@ proxies:
   network: ws
   ws-opts:
     path: /
-- name: 🇭🇰HK-8.217.93.104-1354 | 3.503MB
+- name: 🇭🇰HK-8.217.93.104-1354 | 1.077MB
   server: 8.217.93.104
   port: 443
   type: vmess
@@ -2037,7 +2037,7 @@ proxies:
     path: /
     headers:
       Host: sptufp5n3o19imic.iwebsocket.com
-- name: TR-45.89.52.66-8989 | 3.484MB
+- name: TR-45.89.52.66-8989 | 1.077MB
   server: 45.89.52.66
   port: 9031
   type: ss
@@ -2099,224 +2099,224 @@ proxy-groups:
   interval: 300
   tolerance: 100
   proxies:
-  - RELAY-172.64.80.1-0716 | 148.873MB
-  - RELAY-172.67.71.160-0058 | 146.24MB
-  - RELAY-172.67.207.26-1357 | 132.36MB
-  - RELAY-104.21.15.36-0082 | 127.196MB
-  - 🇺🇸US-205.134.180.147-0734 | 116.447MB
-  - RELAY-172.67.196.112-0137 | 106.338MB
-  - RELAY-172.67.136.215-0151 | 104.797MB
-  - 🇺🇸US-172.233.214.104-0718 | 95.188MB
-  - 🇺🇸US-45.63.110.20-0132 | 92.414MB
-  - RELAY-172.67.207.114-2350 | 90.783MB
-  - RELAY-104.21.12.173-3579 | 83.997MB
-  - 🇺🇸US-205.134.180.137-0728 | 82.707MB
-  - RELAY-104.21.12.173-0147 | 81.657MB
-  - RELAY-104.21.75.246-2392 | 81.141MB
-  - RELAY-172.67.152.214-0173 | 72.23MB
-  - RELAY-188.114.96.2-2386 | 69.207MB
-  - RELAY-104.18.202.250-1124 | 61.798MB
-  - RELAY-188.114.99.0-2327 | 55.369MB
-  - RELAY-104.21.53.12-2367 | 54.342MB
-  - 🇺🇸US-138.197.5.103-0720 | 52.022MB
-  - RELAY-104.21.31.189-0075 | 51.512MB
-  - 🇺🇸US-205.134.180.151-0733 | 51.318MB
-  - RELAY-188.114.98.0-2384 | 51.092MB
-  - 🇺🇸US-156.146.38.163-0726 | 51.08MB
-  - 🇺🇸US-205.134.180.145-2502 | 51.046MB
-  - RELAY-104.21.50.177-6856 | 50.778MB
-  - 🇺🇸US-156.146.38.163-0211 | 50.755MB
-  - RELAY-172.67.68.246-0118 | 50.689MB
-  - 🇺🇸US-107.175.37.186-0388 | 49.859MB
-  - RELAY-104.21.53.12-6857 | 46.457MB
-  - RELAY-104.26.9.202-0129 | 46.262MB
-  - RELAY-104.26.9.202-0055 | 45.507MB
-  - RELAY-104.26.8.202-0050 | 43.071MB
-  - RELAY-104.16.68.38-0097 | 41.718MB
-  - RELAY-172.67.197.82-6853 | 40.204MB
-  - RELAY-172.67.183.110-6854 | 37.465MB
-  - 🇺🇸US-66.132.162.32-0083 | 33.79MB
-  - 🇳🇱NL-81.28.12.12-0741 | 33.482MB
-  - IE-52.178.196.119-0899 | 32.995MB
-  - 🇺🇸US-165.1.79.252-0095 | 32.981MB
-  - RELAY-104.16.120.247-3650 | 32.859MB
-  - RELAY-104.21.50.177-3616 | 32.855MB
-  - 🇺🇸US-165.1.79.252-1070 | 32.568MB
-  - IE-63.33.115.178-1947 | 32.564MB
-  - RELAY-162.159.36.5-1364 | 32.463MB
-  - RELAY-188.114.97.7-2330 | 32.4MB
-  - 🇺🇸US-45.55.2.232-0753 | 32.287MB
-  - RELAY-188.114.97.1-2341 | 32.206MB
-  - 🇺🇸US-38.14.107.227-0048 | 32.152MB
-  - RELAY-104.21.31.183-6858 | 31.913MB
+  - RELAY-172.64.80.1-0716 | 219.221MB
+  - RELAY-172.67.71.160-0058 | 193.398MB
+  - RELAY-172.67.207.26-1357 | 152.001MB
+  - RELAY-104.21.15.36-0082 | 140.472MB
+  - 🇺🇸US-205.134.180.147-0734 | 124.127MB
+  - RELAY-172.67.196.112-0137 | 110.079MB
+  - RELAY-172.67.136.215-0151 | 89.623MB
+  - 🇺🇸US-172.233.214.104-0718 | 73.538MB
+  - 🇺🇸US-45.63.110.20-0132 | 68.147MB
+  - RELAY-172.67.207.114-2350 | 66.484MB
+  - RELAY-104.21.12.173-3579 | 65.321MB
+  - 🇺🇸US-205.134.180.137-0728 | 64.18MB
+  - RELAY-104.21.12.173-0147 | 59.772MB
+  - RELAY-104.21.75.246-2392 | 55.026MB
+  - RELAY-172.67.152.214-0173 | 50.711MB
+  - RELAY-188.114.96.2-2386 | 50.031MB
+  - RELAY-104.18.202.250-1124 | 49.192MB
+  - RELAY-188.114.99.0-2327 | 48.148MB
+  - RELAY-104.21.53.12-2367 | 44.212MB
+  - 🇺🇸US-138.197.5.103-0720 | 42.476MB
+  - RELAY-104.21.31.189-0075 | 42.151MB
+  - 🇺🇸US-205.134.180.151-0733 | 40.879MB
+  - RELAY-188.114.98.0-2384 | 40.218MB
+  - 🇺🇸US-156.146.38.163-0726 | 39.13MB
+  - 🇺🇸US-205.134.180.145-2502 | 39.124MB
+  - RELAY-104.21.50.177-6856 | 38.34MB
+  - 🇺🇸US-156.146.38.163-0211 | 38.163MB
+  - RELAY-172.67.68.246-0118 | 38.037MB
+  - 🇺🇸US-107.175.37.186-0388 | 37.021MB
+  - RELAY-104.21.53.12-6857 | 36.909MB
+  - RELAY-104.26.9.202-0129 | 36.67MB
+  - RELAY-104.26.9.202-0055 | 35.857MB
+  - RELAY-104.26.8.202-0050 | 34.459MB
+  - RELAY-104.16.68.38-0097 | 34.174MB
+  - RELAY-172.67.197.82-6853 | 33.815MB
+  - RELAY-172.67.183.110-6854 | 33.805MB
+  - 🇺🇸US-66.132.162.32-0083 | 33.736MB
+  - 🇳🇱NL-81.28.12.12-0741 | 31.385MB
+  - IE-52.178.196.119-0899 | 30.854MB
+  - 🇺🇸US-165.1.79.252-0095 | 30.791MB
+  - RELAY-104.16.120.247-3650 | 30.776MB
+  - RELAY-104.21.50.177-3616 | 29.329MB
+  - 🇺🇸US-165.1.79.252-1070 | 28.93MB
+  - IE-63.33.115.178-1947 | 25.344MB
+  - RELAY-162.159.36.5-1364 | 25.341MB
+  - RELAY-188.114.97.7-2330 | 24.523MB
+  - 🇺🇸US-45.55.2.232-0753 | 24.202MB
+  - RELAY-188.114.97.1-2341 | 23.986MB
+  - 🇺🇸US-38.14.107.227-0048 | 23.892MB
+  - RELAY-104.21.31.183-6858 | 23.587MB
 - name: Tier 2 ⚡️
   type: url-test
   url: http://clients3.google.com/generate_204
   interval: 300
   tolerance: 100
   proxies:
-  - 🇺🇸US-212.102.47.198-0746 | 31.768MB
-  - RELAY-172.67.215.202-0049 | 31.513MB
-  - RELAY-104.21.91.254-2336 | 31.347MB
-  - 🇬🇧GB-45.76.130.173-0116 | 31.153MB
-  - 🇬🇧GB-51.143.138.171-0793 | 30.436MB
-  - RELAY-162.159.6.6-0168 | 30.336MB
-  - 🇺🇸US-38.14.107.242-0152 | 30.324MB
-  - RELAY-172.67.196.112-1358 | 30.158MB
-  - 🇺🇸US-38.14.107.229-1233 | 29.967MB
-  - 🇬🇧GB-51.38.64.145-0081 | 29.948MB
-  - 🇬🇧GB-51.143.138.98-1949 | 29.471MB
-  - 🇬🇧GB-51.143.138.181-0774 | 29.292MB
-  - RELAY-188.114.96.3-2412 | 29.248MB
-  - 🇬🇧GB-3.11.180.253-0751 | 29.192MB
-  - 🇬🇧GB-35.176.150.177-0758 | 29.181MB
-  - 🇺🇸US-38.14.107.226-1181 | 29.174MB
-  - 🇬🇧GB-3.11.180.253-0756 | 29.17MB
-  - 🇬🇧GB-3.11.180.253-0759 | 29.064MB
-  - 🇬🇧GB-51.142.159.23-0765 | 28.933MB
-  - 🇬🇧GB-13.43.32.133-0763 | 28.933MB
-  - 🇬🇧GB-35.176.150.177-0761 | 28.919MB
-  - 🇬🇧GB-51.142.173.103-0783 | 28.915MB
-  - 🇬🇧GB-3.11.180.253-0773 | 28.883MB
-  - RELAY-104.21.4.29-2393 | 28.793MB
-  - 🇬🇧GB-13.43.32.133-0755 | 28.746MB
-  - 🇬🇧GB-3.11.180.253-0754 | 28.718MB
-  - RELAY-104.16.120.247-3649 | 28.704MB
-  - 🇬🇧GB-13.43.32.133-0757 | 28.704MB
-  - 🇳🇱NL-103.214.68.57-0764 | 28.643MB
-  - 🇳🇱NL-172.233.51.96-1831 | 28.551MB
-  - 🇳🇱NL-109.201.152.181-0767 | 28.506MB
-  - 🇳🇱NL-172.233.51.96-0762 | 28.495MB
-  - 🇬🇧GB-172.99.190.109-1359 | 28.429MB
-  - 🇫🇷FR-51.15.27.48-0768 | 28.328MB
-  - RELAY-104.21.90.218-0744 | 28.265MB
-  - 🇫🇷FR-13.38.206.183-0150 | 28.026MB
-  - 🇳🇱NL-209.250.246.191-0144 | 27.697MB
-  - 🇫🇷FR-195.154.169.198-0775 | 27.11MB
-  - 🇺🇸US-80.92.205.112-0811 | 27.107MB
-  - 🇫🇷FR-195.154.185.174-0792 | 27.069MB
-  - 🇫🇷FR-141.11.189.249-1328 | 26.747MB
-  - RELAY-104.21.27.139-2380 | 26.728MB
-  - 🇫🇷FR-51.159.111.208-0777 | 26.572MB
-  - 🇫🇷FR-51.159.111.208-1795 | 26.09MB
-  - 🇺🇸US-176.120.75.117-0072 | 25.92MB
-  - 🇩🇪DE-130.162.47.123-9586 | 25.897MB
-  - 🇩🇪DE-159.69.12.205-0790 | 25.239MB
-  - RELAY-172.67.131.150-2370 | 25.225MB
-  - RELAY-104.21.31.183-2352 | 25.193MB
-  - CH-156.146.62.160-0791 | 25.151MB
+  - 🇺🇸US-212.102.47.198-0746 | 22.081MB
+  - RELAY-172.67.215.202-0049 | 21.373MB
+  - RELAY-104.21.91.254-2336 | 19.947MB
+  - 🇬🇧GB-45.76.130.173-0116 | 19.898MB
+  - 🇬🇧GB-51.143.138.171-0793 | 19.88MB
+  - RELAY-162.159.6.6-0168 | 19.468MB
+  - 🇺🇸US-38.14.107.242-0152 | 19.309MB
+  - RELAY-172.67.196.112-1358 | 19.259MB
+  - 🇺🇸US-38.14.107.229-1233 | 19.121MB
+  - 🇬🇧GB-51.38.64.145-0081 | 18.952MB
+  - 🇬🇧GB-51.143.138.98-1949 | 18.903MB
+  - 🇬🇧GB-51.143.138.181-0774 | 18.57MB
+  - RELAY-188.114.96.3-2412 | 18.418MB
+  - 🇬🇧GB-3.11.180.253-0751 | 18.186MB
+  - 🇬🇧GB-35.176.150.177-0758 | 18.069MB
+  - 🇺🇸US-38.14.107.226-1181 | 17.911MB
+  - 🇬🇧GB-3.11.180.253-0756 | 17.908MB
+  - 🇬🇧GB-3.11.180.253-0759 | 17.901MB
+  - 🇬🇧GB-51.142.159.23-0765 | 17.897MB
+  - 🇬🇧GB-13.43.32.133-0763 | 17.883MB
+  - 🇬🇧GB-35.176.150.177-0761 | 17.837MB
+  - 🇬🇧GB-51.142.173.103-0783 | 17.745MB
+  - 🇬🇧GB-3.11.180.253-0773 | 17.652MB
+  - RELAY-104.21.4.29-2393 | 17.641MB
+  - 🇬🇧GB-13.43.32.133-0755 | 17.544MB
+  - 🇬🇧GB-3.11.180.253-0754 | 17.464MB
+  - RELAY-104.16.120.247-3649 | 17.409MB
+  - 🇬🇧GB-13.43.32.133-0757 | 17.29MB
+  - 🇳🇱NL-103.214.68.57-0764 | 17.258MB
+  - 🇳🇱NL-172.233.51.96-1831 | 17.211MB
+  - 🇳🇱NL-109.201.152.181-0767 | 17.108MB
+  - 🇳🇱NL-172.233.51.96-0762 | 17.029MB
+  - 🇬🇧GB-172.99.190.109-1359 | 16.975MB
+  - 🇫🇷FR-51.15.27.48-0768 | 16.82MB
+  - RELAY-104.21.90.218-0744 | 16.748MB
+  - 🇫🇷FR-13.38.206.183-0150 | 16.424MB
+  - 🇳🇱NL-209.250.246.191-0144 | 16.068MB
+  - 🇫🇷FR-195.154.169.198-0775 | 16.061MB
+  - 🇺🇸US-80.92.205.112-0811 | 15.728MB
+  - 🇫🇷FR-195.154.185.174-0792 | 15.702MB
+  - 🇫🇷FR-141.11.189.249-1328 | 15.632MB
+  - RELAY-104.21.27.139-2380 | 15.511MB
+  - 🇫🇷FR-51.159.111.208-0777 | 15.368MB
+  - 🇫🇷FR-51.159.111.208-1795 | 15.356MB
+  - 🇺🇸US-176.120.75.117-0072 | 15.177MB
+  - 🇩🇪DE-130.162.47.123-9586 | 14.615MB
+  - 🇩🇪DE-159.69.12.205-0790 | 14.581MB
+  - RELAY-172.67.131.150-2370 | 14.472MB
+  - RELAY-104.21.31.183-2352 | 14.293MB
+  - CH-156.146.62.160-0791 | 14.009MB
 - name: Tier 3 💎
   type: url-test
   url: http://clients3.google.com/generate_204
   interval: 300
   tolerance: 100
   proxies:
-  - AT-185.180.12.81-0794 | 25.062MB
-  - 🇩🇪DE-130.162.47.123-9588 | 24.655MB
-  - 🇩🇪DE-217.160.45.31-0369 | 24.561MB
-  - RELAY-172.67.183.110-2356 | 24.124MB
-  - 🇵🇱PL-217.30.10.70-0796 | 24.078MB
-  - 🇺🇸US-74.121.191.98-0813 | 23.853MB
-  - RELAY-104.18.36.174-0087 | 23.815MB
-  - 🇺🇸US-176.120.75.117-1228 | 23.026MB
-  - RELAY-104.18.36.174-0074 | 22.908MB
-  - SE-121.127.46.147-0802 | 22.803MB
-  - SE-16.16.191.108-0071 | 22.674MB
-  - RELAY-104.21.16.62-0076 | 22.638MB
-  - SE-13.48.113.179-0128 | 22.506MB
-  - RELAY-172.67.142.191-2360 | 22.478MB
-  - RELAY-172.67.220.64-0110 | 22.456MB
-  - RO-194.14.217.115-0804 | 22.004MB
-  - RELAY-188.114.96.7-2359 | 21.835MB
-  - FI-37.143.129.230-0845 | 21.712MB
-  - 🇬🇧GB-77.72.5.150-0862 | 21.676MB
-  - AL-31.171.153.181-0808 | 21.265MB
-  - RELAY-172.64.33.100-0158 | 21.235MB
-  - UA-5.188.6.8-0821 | 20.848MB
-  - RELAY-104.16.149.244-0139 | 20.837MB
-  - 🇯🇵JP-154.47.20.240-0824 | 20.696MB
-  - 🇬🇧GB-77.72.5.113-0866 | 20.24MB
-  - 🇪🇸ES-5.188.181.201-8947 | 20.233MB
-  - 🇯🇵JP-3.112.221.226-3654 | 20.141MB
-  - 🇯🇵JP-18.183.177.131-3653 | 20.102MB
-  - RELAY-104.21.12.103-8741 | 18.051MB
-  - AZ-180.149.44.120-0828 | 17.502MB
-  - RELAY-104.21.94.99-0838 | 17.217MB
-  - 🇨🇦CA-134.195.196.178-0871 | 16.826MB
-  - BA-185.164.35.9-0825 | 16.603MB
-  - 🇯🇵JP-141.147.174.139-3656 | 15.415MB
-  - 🇨🇦CA-134.195.196.178-0875 | 15.244MB
-  - 🇪🇸ES-5.188.181.201-0837 | 15.047MB
-  - 🇪🇸ES-5.188.181.201-0840 | 15.029MB
-  - 🇰🇷KR-193.123.246.232-1259 | 13.716MB
-  - RELAY-172.64.172.13-0145 | 13.616MB
-  - 🇰🇷KR-64.110.79.53-3657 | 13.582MB
-  - 🇰🇷KR-152.67.218.38-3886 | 13.267MB
-  - 🇪🇸ES-5.188.181.201-0818 | 13.175MB
-  - 🇪🇸ES-5.188.181.201-0819 | 13.091MB
-  - 🇰🇷KR-152.67.218.38-6091 | 12.704MB
-  - 🇰🇷KR-43.201.59.186-0146 | 12.378MB
-  - 🇰🇷KR-193.123.246.232-0090 | 11.966MB
-  - GR-94.131.8.32-1238 | 11.889MB
-  - 🇯🇵JP-138.2.39.55-0067 | 11.786MB
-  - 🇯🇵JP-152.69.197.74-3186 | 11.7MB
-  - 🇸🇬SG-128.199.183.65-0835 | 11.668MB
+  - AT-185.180.12.81-0794 | 13.66MB
+  - 🇩🇪DE-130.162.47.123-9588 | 13.629MB
+  - 🇩🇪DE-217.160.45.31-0369 | 13.428MB
+  - RELAY-172.67.183.110-2356 | 13.149MB
+  - 🇵🇱PL-217.30.10.70-0796 | 13.04MB
+  - 🇺🇸US-74.121.191.98-0813 | 12.977MB
+  - RELAY-104.18.36.174-0087 | 12.832MB
+  - 🇺🇸US-176.120.75.117-1228 | 12.535MB
+  - RELAY-104.18.36.174-0074 | 12.346MB
+  - SE-121.127.46.147-0802 | 11.948MB
+  - SE-16.16.191.108-0071 | 11.889MB
+  - RELAY-104.21.16.62-0076 | 11.525MB
+  - SE-13.48.113.179-0128 | 11.502MB
+  - RELAY-172.67.142.191-2360 | 11.457MB
+  - RELAY-172.67.220.64-0110 | 9.317MB
+  - RO-194.14.217.115-0804 | 8.919MB
+  - RELAY-188.114.96.7-2359 | 8.56MB
+  - FI-37.143.129.230-0845 | 8.479MB
+  - 🇬🇧GB-77.72.5.150-0862 | 8.342MB
+  - AL-31.171.153.181-0808 | 8.224MB
+  - RELAY-172.64.33.100-0158 | 6.502MB
+  - UA-5.188.6.8-0821 | 6.266MB
+  - RELAY-104.16.149.244-0139 | 6.076MB
+  - 🇯🇵JP-154.47.20.240-0824 | 5.793MB
+  - 🇬🇧GB-77.72.5.113-0866 | 5.586MB
+  - 🇪🇸ES-5.188.181.201-8947 | 5.485MB
+  - 🇯🇵JP-3.112.221.226-3654 | 5.48MB
+  - 🇯🇵JP-18.183.177.131-3653 | 5.471MB
+  - RELAY-104.21.12.103-8741 | 5.331MB
+  - AZ-180.149.44.120-0828 | 5.325MB
+  - RELAY-104.21.94.99-0838 | 4.881MB
+  - 🇨🇦CA-134.195.196.178-0871 | 4.804MB
+  - BA-185.164.35.9-0825 | 4.288MB
+  - 🇯🇵JP-141.147.174.139-3656 | 4.254MB
+  - 🇨🇦CA-134.195.196.178-0875 | 4.204MB
+  - 🇪🇸ES-5.188.181.201-0837 | 4.078MB
+  - 🇪🇸ES-5.188.181.201-0840 | 4.004MB
+  - 🇰🇷KR-193.123.246.232-1259 | 3.92MB
+  - RELAY-172.64.172.13-0145 | 3.868MB
+  - 🇰🇷KR-64.110.79.53-3657 | 3.775MB
+  - 🇰🇷KR-152.67.218.38-3886 | 3.361MB
+  - 🇪🇸ES-5.188.181.201-0818 | 3.349MB
+  - 🇪🇸ES-5.188.181.201-0819 | 3.346MB
+  - 🇰🇷KR-152.67.218.38-6091 | 3.33MB
+  - 🇰🇷KR-43.201.59.186-0146 | 3.09MB
+  - 🇰🇷KR-193.123.246.232-0090 | 2.864MB
+  - GR-94.131.8.32-1238 | 2.653MB
+  - 🇯🇵JP-138.2.39.55-0067 | 2.567MB
+  - 🇯🇵JP-152.69.197.74-3186 | 2.114MB
+  - 🇸🇬SG-128.199.183.65-0835 | 1.878MB
 - name: Tier 4 🗿
   type: url-test
   url: http://clients3.google.com/generate_204
   interval: 300
   tolerance: 100
   proxies:
-  - 🇯🇵JP-138.2.39.55-1289 | 11.59MB
-  - 🇸🇬SG-128.199.183.69-0172 | 11.547MB
-  - ZA-41.203.4.34-0832 | 11.184MB
-  - 🇸🇬SG-103.172.116.103-3662 | 11.013MB
-  - 🇸🇬SG-103.172.116.103-0864 | 10.885MB
-  - RELAY-172.67.204.84-1287 | 10.798MB
-  - 🇸🇬SG-157.245.149.232-0121 | 10.717MB
-  - 🇸🇬SG-68.183.228.18-0107 | 10.6MB
-  - 🇨🇳CN-183.236.53.120-3655 | 10.564MB
-  - RELAY-104.21.20.16-1237 | 10.56MB
-  - 🇰🇷KR-221.150.109.11-3646 | 10.412MB
-  - 🇸🇬SG-103.172.116.103-0868 | 10.33MB
-  - 🇯🇵JP-172.207.191.4-0073 | 10.263MB
-  - VN-103.163.218.2-0842 | 9.828MB
-  - 🇨🇳TW-118.165.43.53-0065 | 9.351MB
-  - VN-103.163.218.2-1722 | 8.984MB
-  - 🇩🇪DE-95.164.89.225-0079 | 8.463MB
-  - RELAY-172.67.229.33-2345 | 8.354MB
-  - RELAY-104.18.119.139-1271 | 8.349MB
-  - 🇸🇬SG-103.172.116.103-3691 | 8.326MB
-  - CY-213.169.137.221-0846 | 8.162MB
-  - 🇰🇷KR-203.234.238.145-3647 | 8.065MB
-  - RELAY-172.67.229.34-2381 | 7.842MB
-  - RELAY-172.64.68.208-1161 | 7.601MB
-  - 🇸🇬SG-103.172.116.103-3684 | 7.262MB
-  - ZA-129.232.129.156-0852 | 6.946MB
-  - 🇸🇬SG-103.172.116.79-3757 | 6.914MB
-  - 🇩🇪DE-3.77.143.98-0901 | 6.766MB
-  - KE-62.12.116.66-0848 | 6.728MB
-  - NO-185.90.61.153-0874 | 6.649MB
-  - 🇫🇷FR-51.178.87.37-8934 | 5.798MB
-  - 🇫🇷FR-51.178.87.37-8935 | 5.347MB
-  - RELAY-104.21.20.16-0125 | 5.164MB
-  - RELAY-172.65.255.110-0085 | 5.126MB
-  - AR-190.103.176.29-0854 | 5.124MB
-  - 🇭🇰HK-182.16.1.194-8766 | 4.851MB
-  - RELAY-172.67.132.15-1591 | 4.693MB
-  - 🇨🇳TW-220.141.133.137-0051 | 4.606MB
-  - 🇨🇳TW-36.226.139.97-0112 | 4.514MB
-  - CL-190.120.230.9-0858 | 4.167MB
-  - 🇨🇳TW-114.45.82.23-0059 | 4.098MB
-  - RELAY-94.140.0.110-0080 | 4.05MB
-  - MX-190.103.179.23-0863 | 4.01MB
-  - 🇸🇬SG-103.172.116.103-3672 | 3.881MB
-  - CO-190.120.231.45-0879 | 3.774MB
-  - 🇭🇰HK-91.149.236.44-0122 | 3.765MB
-  - RELAY-172.67.229.38-0153 | 3.536MB
-  - 🇸🇬SG-103.172.116.103-3679 | 3.521MB
-  - 🇭🇰HK-212.192.12.231-0084 | 3.517MB
-  - 🇭🇰HK-8.217.93.104-1354 | 3.503MB
-  - TR-45.89.52.66-8989 | 3.484MB
+  - 🇯🇵JP-138.2.39.55-1289 | 1.721MB
+  - 🇸🇬SG-128.199.183.69-0172 | 1.494MB
+  - ZA-41.203.4.34-0832 | 1.337MB
+  - 🇸🇬SG-103.172.116.103-3662 | 1.324MB
+  - 🇸🇬SG-103.172.116.103-0864 | 1.295MB
+  - RELAY-172.67.204.84-1287 | 1.26MB
+  - 🇸🇬SG-157.245.149.232-0121 | 1.257MB
+  - 🇸🇬SG-68.183.228.18-0107 | 1.254MB
+  - 🇨🇳CN-183.236.53.120-3655 | 1.192MB
+  - RELAY-104.21.20.16-1237 | 1.156MB
+  - 🇰🇷KR-221.150.109.11-3646 | 1.151MB
+  - 🇸🇬SG-103.172.116.103-0868 | 1.135MB
+  - 🇯🇵JP-172.207.191.4-0073 | 1.11MB
+  - VN-103.163.218.2-0842 | 1.109MB
+  - 🇨🇳TW-118.165.43.53-0065 | 1.095MB
+  - VN-103.163.218.2-1722 | 1.092MB
+  - 🇩🇪DE-95.164.89.225-0079 | 1.091MB
+  - RELAY-172.67.229.33-2345 | 1.088MB
+  - RELAY-104.18.119.139-1271 | 1.088MB
+  - 🇸🇬SG-103.172.116.103-3691 | 1.088MB
+  - CY-213.169.137.221-0846 | 1.087MB
+  - 🇰🇷KR-203.234.238.145-3647 | 1.087MB
+  - RELAY-172.67.229.34-2381 | 1.087MB
+  - RELAY-172.64.68.208-1161 | 1.086MB
+  - 🇸🇬SG-103.172.116.103-3684 | 1.086MB
+  - ZA-129.232.129.156-0852 | 1.086MB
+  - 🇸🇬SG-103.172.116.79-3757 | 1.086MB
+  - 🇩🇪DE-3.77.143.98-0901 | 1.086MB
+  - KE-62.12.116.66-0848 | 1.085MB
+  - NO-185.90.61.153-0874 | 1.084MB
+  - 🇫🇷FR-51.178.87.37-8934 | 1.084MB
+  - 🇫🇷FR-51.178.87.37-8935 | 1.084MB
+  - RELAY-104.21.20.16-0125 | 1.084MB
+  - RELAY-172.65.255.110-0085 | 1.083MB
+  - AR-190.103.176.29-0854 | 1.083MB
+  - 🇭🇰HK-182.16.1.194-8766 | 1.083MB
+  - RELAY-172.67.132.15-1591 | 1.083MB
+  - 🇨🇳TW-220.141.133.137-0051 | 1.083MB
+  - 🇨🇳TW-36.226.139.97-0112 | 1.082MB
+  - CL-190.120.230.9-0858 | 1.082MB
+  - 🇨🇳TW-114.45.82.23-0059 | 1.081MB
+  - RELAY-94.140.0.110-0080 | 1.081MB
+  - MX-190.103.179.23-0863 | 1.08MB
+  - 🇸🇬SG-103.172.116.103-3672 | 1.08MB
+  - CO-190.120.231.45-0879 | 1.079MB
+  - 🇭🇰HK-91.149.236.44-0122 | 1.079MB
+  - RELAY-172.67.229.38-0153 | 1.079MB
+  - 🇸🇬SG-103.172.116.103-3679 | 1.078MB
+  - 🇭🇰HK-212.192.12.231-0084 | 1.078MB
+  - 🇭🇰HK-8.217.93.104-1354 | 1.077MB
+  - TR-45.89.52.66-8989 | 1.077MB
 rules:
 - MATCH,Global ©️
